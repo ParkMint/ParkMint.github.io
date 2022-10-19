@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "사진 테스트"
-categories: 깃허브 블로그
+categories: github
 ---
 
 
